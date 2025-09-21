@@ -1,9 +1,1 @@
 .center { display: block; margin-left: auto; margin-right: auto; width: 50%; }
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0); /* Start and end at the original position */
-  }
-  50% {
-    transform: translateY(-15px); /* Move up by 15 pixels at the midpoint */
-  }
-}
